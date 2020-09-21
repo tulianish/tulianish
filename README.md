@@ -1,4 +1,4 @@
-Data Engineer Intern at @Organimi and Applied Computer Science Graduate Student at Dalhousie University, Halifax and a developer with a fascination towards learning new technologies. Looking forward to Co-op opportunities at an organization with an atmosphere to foster my interests by encouraging me to push myself and contribute to my development as an individual.
+Data Engineer Intern at [Organimi](https://www.organimi.com) and Applied Computer Science Graduate Student at Dalhousie University, Halifax and a developer with a fascination towards learning new technologies. Looking forward to Co-op opportunities at an organization with an atmosphere to foster my interests by encouraging me to push myself and contribute to my development as an individual.
 
 - Programming experience with Python, JavaScript, Java and C++
 - 1.5 years+ experience in API Development, Agile + Scrum Model, Test Driven Development (TDD), Code impact and regression analysis
