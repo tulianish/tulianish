@@ -10,6 +10,7 @@ Data Engineer Intern at [Organimi](https://www.organimi.com) and Applied Compute
 - Experience in using collaboration tools like Slack, Teams, Zoom, Skype
 
 - 📫 Reach me at anish.tuli@dal.ca
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/tulianish)
 
 <!--
 **tulianish/tulianish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
