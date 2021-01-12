@@ -1,4 +1,4 @@
-Applied Computer Science Graduate Student from Dalhousie University, Halifax and a developer with a fascination towards learning new technologies.
+Data Engineer at SSENSE and a recent graduate from the Applied Computer Science program at Dalhousie University. I am currently working with Big Data problems pertaining to Data Lake Management, creating and maintaining ETL processes for data science and business analtyics.
 
 - Programming experience with Python, JavaScript, Java and C++
 - 1.5 years+ experience in API Development, Agile + Scrum Model, Test Driven Development (TDD), Code impact and regression analysis
