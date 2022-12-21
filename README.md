@@ -1,7 +1,7 @@
 Data Software Engineer at [NetApp](https://www.spot.io). I am currently working with Big Data problems pertaining to Data Lake Management, creating and maintaining ETL processes for data science and business analtyics.
 
 - Creation and maintenance of data pipelines using Apache Airflow with Python programming language 
-- 2 years+ experience working with Agile + Scrum Model, Test Driven Development (TDD), Code impact and regression analysis
+- 3 years+ experience working with Agile + Scrum Model, Test Driven Development (TDD), Code impact and regression analysis
 - Well versed with Docker, multi-container environments built on microservice architecture
 - Experience working with Kubernetes with YAML Configmaps on AWS EKS
 - Experience in Cloud Services by AWS, Azure, Google Cloud Platform (GCP), Heroku
