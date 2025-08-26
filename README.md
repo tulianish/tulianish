@@ -1,3 +1,34 @@
+# Hi, I'm Anish
+
+## 🚀 About Me  
+I’m a Data Engineer with 5+ years of experience building and maintaining data pipelines, designing data architectures, and enabling analytics at scale.  
+
+- Strong in **Python, SQL, and Apache Airflow** for pipeline orchestration  
+- Experienced across **AWS, Azure, GCP, and Heroku** for cloud-based data solutions  
+- Skilled in **data lakes, lakehouses, and warehouses** with tools like S3, Redshift, Glue, and Athena  
+- Well-versed in **containerization and orchestration** using Docker and Kubernetes (AWS EKS)  
+- Background in **Agile/Scrum, TDD, and version control** with Git & Atlassian tools  
+- Worked on **cross-team machine learning projects**, architecting data workflows to support intelligent systems  
+
+## 💡 What I’m Interested In  
+- Scalable and automated data workflows  
+- Modern lakehouse technologies  
+- Cloud-native data platforms and infrastructure as code (Terraform)  
+- Collaboration between data engineering and ML teams
+
+## 🔄 One of the many data flow I have designed
+📥 Raw Data → ⚙️ Airflow + Python → 💾 Data Lake (S3) → 🛠️ DBT + SQL → ❄️ Redshift → 📊 Analytics 🚀  
+
+## 🎯 Outside of Work  
+- Love exploring stealth games (big Ghost of Tsushima fan 🥷) 
+- Into road trips & travel ✈️  
+- Always up for geeking out about data, tech, or strategy games   
+
+## 🤝 Connect  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/tulianish)
+
+
+<!--
 Data Software Engineer at [NetApp](https://www.spot.io). I am currently working with Big Data problems pertaining to Data Lake Management, creating and maintaining ETL processes for data science and business analtyics.
 
 - Creation and maintenance of data pipelines using Apache Airflow with Python programming language 
@@ -14,7 +45,7 @@ Data Software Engineer at [NetApp](https://www.spot.io). I am currently working 
 - 📫 Reach me at tulianish@gmail.com
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/tulianish)
 
-<!--
+
 **tulianish/tulianish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
