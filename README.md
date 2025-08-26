@@ -16,7 +16,7 @@ I’m a Data Engineer with 5+ years of experience building and maintaining data 
 - Cloud-native data platforms and infrastructure as code (Terraform)  
 - Collaboration between data engineering and ML teams
 
-## 🔄 One of the many data flow I have designed
+## 🔄 One of the many data flows I have designed
 📥 Raw Data → ⚙️ Airflow + Python → 💾 Data Lake (S3) → 🛠️ DBT + SQL → ❄️ Redshift → 📊 Analytics 🚀  
 
 ## 🎯 Outside of Work  
